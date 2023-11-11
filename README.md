@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm Jonatha, a game developer.</h1>
+  
+  🔭 I’m currently working on a C++ game! <br/>
+  ⚡ Check out my latest game: Pac-Ninja!
 
-<!--
-**J0NATHA/J0NATHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div id="badges" align="center" >
+    <a href="https://www.credly.com/badges/78f5c3d9-8bdc-4717-b5dc-7d5d843e2e8f/public_url">
+      <img src="https://images.credly.com/size/680x680/images/b7f2b84c-4fd4-4ab6-aa48-dfa82156387e/cpa.png" width="150" />
+    </a> <br/> <br/>
+    <a href="https://www.linkedin.com/in/j0natha/" >
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" 
+        width="100"/>
+    </a> 
+  </div>
+</div>

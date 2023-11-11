@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Jonatha, a game developer.</h1>
   
   🔭 I’m currently working on a C++ game! <br/>
-  ⚡ Check out my latest game: Pac-Ninja!
+  ⚡ Check out my latest game: <a href="https://j0natha.itch.io/pac-ninja">Pac-Ninja!</a>
 
   <div id="badges" align="center" >
     <a href="https://www.credly.com/badges/78f5c3d9-8bdc-4717-b5dc-7d5d843e2e8f/public_url">

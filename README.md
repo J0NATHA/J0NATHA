@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Jonatha, a game developer.</h1>
   
-  🔭 I’m currently working on a C++ game! <br/>
+  🔭 ... <br/>
   ⚡ Check out my latest game: <a href="https://j0natha.itch.io/pac-ninja">Pac-Ninja!</a>
 
   <div id="badges" align="center" >
